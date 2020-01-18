@@ -1,3 +1,4 @@
 flaskintro
 .vscode
 dev.db
+__pycache__
