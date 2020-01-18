@@ -1,4 +1,4 @@
-# Exércicio do Curso Flask Intro
+# Exercício do Curso Flask Intro
 
 Descrição:
 ----------
